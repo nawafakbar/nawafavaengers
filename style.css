@@ -956,7 +956,7 @@ header p {
         background-image: url('img/bgblur.png');
         background-size: cover;
         background-position: center;
-        height: 120vh;
+        height: 100%;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
